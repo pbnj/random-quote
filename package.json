@@ -1,0 +1,35 @@
+{
+  "name": "random-quote",
+  "version": "0.0.1",
+  "description": "A node.js library for generating random quotes",
+  "main": "index.js",
+  "scripts": {
+    "security": "snyk test",
+    "test": "mocha --reporter spec && npm run security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmbenjamin/random-quote.git"
+  },
+  "keywords": [
+    "random-quote",
+    "freecodecamp"
+  ],
+  "author": "Peter Benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmbenjamin/random-quote/issues"
+  },
+  "homepage": "https://github.com/pmbenjamin/random-quote#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0",
+    "snyk": "^1.25.1"
+  },
+  "dependencies": {
+    "then-jsonp": "^1.0.3"
+  }
+}
