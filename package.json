@@ -4,7 +4,7 @@
   "description": "A node.js library for generating random quotes",
   "main": "index.js",
   "scripts": {
-    "security": "snyk test",
+    "security": "snyk auth $SNYK_TOKEN && snyk test",
     "test": "mocha --reporter spec && npm run security"
   },
   "repository": {
