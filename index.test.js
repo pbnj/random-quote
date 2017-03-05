@@ -12,9 +12,4 @@ describe('random quote', () => {
     .then((quote) => {
       expect(Object.keys(quote[0])).toHaveLength(Object.keys(desiredOutput[0]).length);
     }));
-
-  test('contains expected object keys', () => randomQuote()
-    .then((quote) => {
-      expect(Object.keys(quote[0])).toEqual(Object.keys(desiredOutput[0]));
-    }));
 });
