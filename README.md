@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/random-quote.png?downloads=true)](https://nodei.co/npm/random-quote/)
 
-[![Build Status](https://travis-ci.org/pmbenjamin/random-quote.svg?branch=master)](https://travis-ci.org/pmbenjamin/random-quote)
+[![Build Status](https://travis-ci.org/petermbenjamin/random-quote.svg?branch=master)](https://travis-ci.org/petermbenjamin/random-quote)
 [![Known Vulnerabilities](https://snyk.io/test/npm/random-quote/badge.svg?style=flat-square)](https://snyk.io/test/npm/random-quote)
 
 ## Install
