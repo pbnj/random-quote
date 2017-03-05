@@ -7,7 +7,9 @@
 [![Known Vulnerabilities](https://snyk.io/test/npm/random-quote/badge.svg?style=flat-square)](https://snyk.io/test/npm/random-quote)
 
 ## Install
-`npm i -g random-quote`
+```
+npm i -g random-quote
+```
 
 ## Usage
 ```js
