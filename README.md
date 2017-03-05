@@ -4,7 +4,7 @@
 [![NPM](https://nodei.co/npm/random-quote.png?downloads=true)](https://nodei.co/npm/random-quote/)
 
 [![Build Status](https://travis-ci.org/petermbenjamin/random-quote.svg?branch=master)](https://travis-ci.org/petermbenjamin/random-quote)
-[![Known Vulnerabilities](https://snyk.io/test/npm/random-quote/badge.svg?style=flat-square)](https://snyk.io/test/npm/random-quote)
+[![NSP Status](https://nodesecurity.io/orgs/petermbenjamin/projects/1105d7b7-5d1f-4006-9811-ad01f130110c/badge)](https://nodesecurity.io/orgs/petermbenjamin/projects/1105d7b7-5d1f-4006-9811-ad01f130110c)
 
 ## Install
 ```
