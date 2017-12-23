@@ -1,4 +1,6 @@
 # random-quote
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/random-quote.svg)](https://greenkeeper.io/)
 > A NodeJS library for generating random quotes
 
 [![NPM](https://nodei.co/npm/random-quote.png?downloads=true)](https://nodei.co/npm/random-quote/)
